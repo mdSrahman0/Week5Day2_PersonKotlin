@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week5Day2_PersonKotlin</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_street_address">Enter Street Address</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_state">Enter State</string>
+    <string name="enter_zip">Enter Zip</string>
+    <string name="save_info">Save Info</string>
+    <string name="currently_saved">CURRENTLY SAVED:</string>
+</resources>
